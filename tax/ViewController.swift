@@ -131,7 +131,7 @@ class ViewController: UIViewController,UITextFieldDelegate {
         }else{
             PITmonthly = 0
         }
-        PIT.text = "PIT:          "+(locale.currencySymbol!)+numberToCurrency((PITmonthly))
+        PIT.text = "PIT:           "+(locale.currencySymbol!)+numberToCurrency((PITmonthly))
         print((PITmonthly))
     }
     func calcNET() {

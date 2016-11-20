@@ -184,7 +184,7 @@
                                 </constraints>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.82364579260000004" green="1" blue="0.90327973770000003" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="ilZ-GP-fKS" secondAttribute="trailing" constant="20" id="3Px-4J-Uap"/>
                             <constraint firstItem="XUC-7I-zzj" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="8Ey-VK-6Gr"/>
